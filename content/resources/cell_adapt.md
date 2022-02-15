@@ -3,8 +3,13 @@ content_type: resource
 description: 'This file contains notes on topics: Hypertrophy, Factors driving compensatory
   hyperplasia, Resolution of compensatory hyperplasia, Pathologic hyperplasia, Reversible
   and Irreversible Injury, Necrosis and Apoptosis etc.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/fa1502b80045c4da509d71bbe1a5fb12_cell_adapt.pdf
+file: /media/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/fa1502b80045c4da509d71bbe1a5fb12_cell_adapt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cell_adapt.pdf
 uid: fa1502b8-0045-c4da-509d-71bbe1a5fb12

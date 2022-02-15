@@ -3,8 +3,13 @@ content_type: resource
 description: This file contains information about Comparative liver macroanatomy,
   Gross anatomy, Liver functional unit classification schemes, Classical lobule, Lobule--reticulin
   stain, Lobular division etc.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/bbf16081a4259baa7d019329f93baac2_liver_anat.pdf
+file: /media/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/bbf16081a4259baa7d019329f93baac2_liver_anat.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: liver_anat.pdf
 uid: bbf16081-a425-9baa-7d01-9329f93baac2
