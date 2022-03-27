@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: neoplasia.pdf
 uid: 36e28f76-ea2d-f6e1-aea3-ce2b1360fa39

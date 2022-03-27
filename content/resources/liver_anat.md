@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: liver_anat.pdf
 uid: bbf16081-a425-9baa-7d01-9329f93baac2

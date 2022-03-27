@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: chemical_models.pdf
 uid: 530fea94-ced1-9686-281b-64cc1ac5217f

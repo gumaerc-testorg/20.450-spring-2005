@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: immunity.pdf
 uid: 8dfcd4a8-c676-e31f-57aa-370fd9b2d794

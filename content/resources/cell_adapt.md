@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: cell_adapt.pdf
 uid: fa1502b8-0045-c4da-509d-71bbe1a5fb12
