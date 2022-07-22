@@ -7,6 +7,7 @@ file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: liver_regen.pdf
 uid: 2dcf7d27-416e-a37e-be29-d0b7840203a6
 ---
 This file contains notes for Partial Hepatectomy, partial HPx: cellular events, partial HPx: pathogenesis, partial HPx: rat model, partial HPx: cell cycle entry etc.
-

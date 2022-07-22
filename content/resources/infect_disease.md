@@ -9,6 +9,7 @@ file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: infect_disease.pdf
 uid: dcbf6a2c-a511-ae4e-6a6b-ac55c5d114a6
 ---
 This file contains tumor immunity, koch?s postulates,toxin terminology, toxin classification by mechanism, superantigens(type I) toxins, Membrane-Disrupting (type II) toxins, role of membrane disrupting toxins, A-B (type III) toxins, select agents, infection and cancer, mammalian oncoviruses, viruses linked to human neoplasia, infectious group 1 carcinogens etc.
-

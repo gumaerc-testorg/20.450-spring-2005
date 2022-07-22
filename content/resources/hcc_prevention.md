@@ -7,6 +7,7 @@ file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: hcc_prevention.pdf
 uid: da3a3869-fc74-e473-c433-e7db8001ef69
 ---
 This file contains notes for molecular epidemiology, HCC epidemiology, aflatoxins, HCC prevention/intervention, primary interventions, secondary intervention, mechanism of oltipraz, potential impact etc.
-

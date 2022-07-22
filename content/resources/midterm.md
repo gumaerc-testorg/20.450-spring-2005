@@ -6,6 +6,7 @@ file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: midterm.pdf
 uid: 482f2a25-46d9-c350-a917-a81e2d34ea27
 ---
 This resource contains 5 set of questions based on Dendritic cells, breast cancer metastasis, hepatic lobule, Cross-priming, and hepatitis B virus (HBV).
-

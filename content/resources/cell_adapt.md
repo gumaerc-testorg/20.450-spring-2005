@@ -7,6 +7,7 @@ file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: cell_adapt.pdf
 uid: fa1502b8-0045-c4da-509d-71bbe1a5fb12
 ---
 This file contains notes on topics: Hypertrophy, Factors driving compensatory hyperplasia, Resolution of compensatory hyperplasia, Pathologic hyperplasia, Reversible and Irreversible Injury, Necrosis and Apoptosis etc.
-
