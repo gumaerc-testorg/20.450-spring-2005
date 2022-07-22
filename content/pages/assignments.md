@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Assignments section contains the students presentations and the relevant
+  readings for the topics covered.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 18160ff4-18d8-4576-ed64-0033b0fb6478
 ---
@@ -90,7 +95,7 @@ Ding, S. J., et al. "From proteomic analysis to clinical significance: overexpre
 Hepatocarcinogenesis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/be450_0413)) (Courtesy of Erin Bridgeford and Nancy Guillén. Used with permission.)
+({{% resource_link 1f4bf9c0-d251-8dd3-b3a1-dadb23852abe "PDF" %}}) (Courtesy of Erin Bridgeford and Nancy Guillén. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Iizuka, N., et al. "Self-organizing-map-based molecular signature representing the development of hepatocellular carcinoma." _FEBS Letters_ 579, no. 5 (February 14, 2005): 1089-100.

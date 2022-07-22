@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Lecture Notes section contains the files for the topics covered for the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 ---
@@ -56,9 +61,9 @@ DS
 {{< tdopen >}}
 
 
-Cellular Adaptations, Cell Injury, and Cell Death ([PDF]({{< baseurl >}}/resources/cell_adapt))
+Cellular Adaptations, Cell Injury, and Cell Death ({{% resource_link fa1502b8-0045-c4da-509d-71bbe1a5fb12 "PDF" %}})
 
-Liver Regeneration ([PDF]({{< baseurl >}}/resources/liver_regen))
+Liver Regeneration ({{% resource_link 2dcf7d27-416e-a37e-be29-d0b7840203a6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -75,7 +80,7 @@ Inflammation
 DS
 {{< tdclose >}}
 {{< tdopen >}}
-Inflammation ([PDF]({{< baseurl >}}/resources/inflammation))
+Inflammation ({{% resource_link c8e4971d-6915-aff3-7c98-1866b31e19a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Liver Anatomy and Histology
 AR
 {{< tdclose >}}
 {{< tdopen >}}
-Liver Anatomy and Histology ([PDF]({{< baseurl >}}/resources/liver_anat))
+Liver Anatomy and Histology ({{% resource_link bbf16081-a425-9baa-7d01-9329f93baac2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,9 +112,9 @@ DS
 {{< tdopen >}}
 
 
-Immunity ([PDF]({{< baseurl >}}/resources/immunity))
+Immunity ({{% resource_link 8dfcd4a8-c676-e31f-57aa-370fd9b2d794 "PDF" %}})
 
-Hepatitis Virus Immunity ([PDF]({{< baseurl >}}/resources/hepat_virus_immu))
+Hepatitis Virus Immunity ({{% resource_link 4bdf43de-c604-7f81-d68f-3c9495c6b351 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -126,7 +131,7 @@ Neoplasia
 DS
 {{< tdclose >}}
 {{< tdopen >}}
-Neoplasia ([PDF]({{< baseurl >}}/resources/neoplasia))
+Neoplasia ({{% resource_link 36e28f76-ea2d-f6e1-aea3-ce2b1360fa39 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +163,7 @@ DS
 {{< tdopen >}}
 
 
-Infectious Diseases ([PDF]({{< baseurl >}}/resources/infect_disease))
+Infectious Diseases ({{% resource_link dcbf6a2c-a511-ae4e-6a6b-ac55c5d114a6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -190,7 +195,7 @@ Hepatocarcinogenesis
 DS
 {{< tdclose >}}
 {{< tdopen >}}
-Hepatocarcinogenesis: Chemical Models ([PDF]({{< baseurl >}}/resources/chemical_models))
+Hepatocarcinogenesis: Chemical Models ({{% resource_link 530fea94-ced1-9686-281b-64cc1ac5217f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,9 +212,9 @@ AR
 {{< tdopen >}}
 
 
-Chronic Viral Hepatitis: Human Disease and Animal Models ([PDF]({{< baseurl >}}/resources/viral_hep))
+Chronic Viral Hepatitis: Human Disease and Animal Models ({{% resource_link 5c31c470-76b0-8033-b159-c337d67689c0 "PDF" %}})
 
-Sexual Dimorphism in the Liver ([PDF]({{< baseurl >}}/resources/dimorphism))
+Sexual Dimorphism in the Liver ({{% resource_link 29937fd7-9f98-7da8-8187-5ef99c0a9490 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -226,7 +231,7 @@ Special Topic
 DS
 {{< tdclose >}}
 {{< tdopen >}}
-Strategies for Prevention of HCC ([PDF]({{< baseurl >}}/resources/hcc_prevention)) (Courtesy of Megan McBee. Used with permission.)
+Strategies for Prevention of HCC ({{% resource_link da3a3869-fc74-e473-c433-e7db8001ef69 "PDF" %}}) (Courtesy of Megan McBee. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

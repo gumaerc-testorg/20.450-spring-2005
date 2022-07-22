@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Calendar section contains the topics covered for the course along with
+  the key dates for assignment submissions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f34f92e9-8f75-f879-9f60-9b306764f53e
 ---
