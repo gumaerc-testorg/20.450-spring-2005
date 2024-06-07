@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/1532e32499141d493bea6c9658d617cc_chp_hepatitisb.jpg
+file_size: 60819
 file_type: image/jpeg
 image_metadata:
   caption: ''
