@@ -6,6 +6,7 @@ description: This file contains tumor immunity, koch?s postulates,toxin terminol
   agents, infection and cancer, mammalian oncoviruses, viruses linked to human neoplasia,
   infectious group 1 carcinogens etc.
 file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/dcbf6a2ca511ae4e6a6bac55c5d114a6_infect_disease.pdf
+file_size: 592666
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

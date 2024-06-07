@@ -4,6 +4,7 @@ description: This file contains notes for benign tumors, malignant tumors, liver
   biology of tumor growth, differentiation and anaplasia, features of anaplasia, rates
   of tumor cell growth, local invasion and metastasis etc.
 file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/36e28f76ea2df6e1aea3ce2b1360fa39_neoplasia.pdf
+file_size: 455085
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 5 set of questions based on Dendritic cells, breast
   cancer metastasis, hepatic lobule, Cross-priming, and hepatitis B virus (HBV).
 file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/482f2a2546d9c350a917a81e2d34ea27_midterm.pdf
+file_size: 15692
 file_type: application/pdf
 learning_resource_types:
 - Exams
