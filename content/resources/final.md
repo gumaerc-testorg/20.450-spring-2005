@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 5 set of questions based on Helicobacter hepaticus
   infection and Hepatocellular tumors.
-file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/db9116811025044bcaf8d3353905df54_final.pdf
+file: /ol-ocw-studio-app/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/db9116811025044bcaf8d3353905df54_final.pdf
 file_size: 25721
 file_type: application/pdf
 learning_resource_types:
