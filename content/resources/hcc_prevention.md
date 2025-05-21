@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains notes for molecular epidemiology, HCC epidemiology,
   aflatoxins, HCC prevention/intervention, primary interventions, secondary intervention,
   mechanism of oltipraz, potential impact etc.
-file: /ol-ocw-studio-app/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/da3a3869fc74e473c433e7db8001ef69_hcc_prevention.pdf
+file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/da3a3869fc74e473c433e7db8001ef69_hcc_prevention.pdf
 file_size: 355466
 file_type: application/pdf
 learning_resource_types:

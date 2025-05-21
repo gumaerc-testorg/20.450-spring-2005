@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains notes on the topics: Gender differences in hepatic
   function, Sex and the single rat (liver), Liver dimorphism in non-rats, Mechanisms
   of liver dimorphism etc.'
-file: /ol-ocw-studio-app/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/29937fd79f987da881875ef99c0a9490_dimorphism.pdf
+file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/29937fd79f987da881875ef99c0a9490_dimorphism.pdf
 file_size: 413108
 file_type: application/pdf
 learning_resource_types:
